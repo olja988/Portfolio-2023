@@ -1,3 +1,2 @@
-# Portfolio-2023
-My Portfolio
-My name is Olja this is my portfolio
+# Portfolio
+Hi, im Olivera and this is my portfolio.
